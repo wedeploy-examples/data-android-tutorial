@@ -1,5 +1,5 @@
-# WeDeploy Data On Android Tutorial
+# WeDeploy Data on Android Tutorial
 
-This template will help you through the process of deploying a WeDeploy Data container.
+This template will help you through the process of deploying an Data project on Android.
 
-> [Visit the tutorial to learn how to start saving and fetching data.](https://wedeploy.com/tutorials/data-android/)
+> [Visit the tutorial to learn how to start using the WeDeploy Data service on Android.](https://wedeploy.com/tutorials/data-android/)
